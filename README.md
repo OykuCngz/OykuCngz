@@ -20,7 +20,5 @@
 
 <div align="center">
 
-> 💡 **Kısa Not:** Şu an web tarafında HTML/CSS/JS ağırlıklı projeler üretiyorum.  
-> 🎯 Hedefim: daha fazla full-stack proje + düzenli GitHub katkısı.
 
 </div>
