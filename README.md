@@ -1,17 +1,17 @@
-### Merhaba, ben Öykü! 👋
+### Hello, I'm Öykü! 👋
 
-Bilgisayar Mühendisliği son sınıf öğrencisiyim. Şu anda veri bilimi, makine öğrenmesi ve akademik araştırmalara odaklanmış durumdayım.
+I am a senior **Software Engineering** student passionate about data science, machine learning, and academic research.
 
-- 🎓 **TÜBİTAK** destekli bitirme projem kapsamında, düşük maliyetli sensörler kullanarak **Hava Kalitesi Analizi** üzerine çalışıyorum.
-- 🧠 **Makine Öğrenmesi** (Regresyon, Sinir Ağları) ve Python üzerine kendimi geliştiriyorum.
-- 🌍 Erasmus Mundus ve yurt dışı yüksek lisans hedeflerim doğrultusunda akademik çalışmalarımı sürdürüyorum.
-- 💻 Geçmişte **Web Geliştirme (React)** ve **Oyun Geliştirme (Unity)** ile ilgilendim.
+- 🎓 Currently working on **Air Quality Analysis** using low-cost sensors as part of my **TÜBİTAK**-supported graduation project.
+- 🧠 Deepening my knowledge in **Machine Learning** (Regression, Neural Networks) and Python.
+- 🌍 Aiming for **Erasmus Mundus** and international master's programs to further my academic career.
+- 💻 Previously experienced in **Web Development (React)** and **Game Development (Unity)**.
 
 ---
 
-### 🛠️ Yetenekler & Araçlar
+### 🛠️ Skills & Tools
 
-**Diller & Veri Bilimi**
+**Languages & Data Science**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -19,7 +19,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim. Şu anda veri bilimi, maki
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-**Geliştirme & Araçlar**
+**Development & Tools**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,7 +29,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim. Şu anda veri bilimi, maki
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=radical&hide_border=true" alt="Öykü's Github Stats" />
@@ -38,7 +38,7 @@ Bilgisayar Mühendisliği son sınıf öğrencisiyim. Şu anda veri bilimi, maki
 
 ---
 
-### 📫 İletişim
+### 📫 Connect with Me
 
 <p>
 <a href="https://linkedin.com/in/oyku-cengiz" target="_blank">
