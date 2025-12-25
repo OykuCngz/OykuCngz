@@ -29,13 +29,6 @@ I am a senior **Software Engineering** student passionate about data science, ma
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OykuCngz&layout=compact&theme=radical&hide_border=true)
----
-
 ### 📫 Connect with Me
 
 <p>
