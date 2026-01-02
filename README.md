@@ -6,7 +6,7 @@
 
 ### Senior Software Engineering Student 🚀
 
-I am passionate about data science, machine learning, and academic research.
+I am a senior student passionate about data science, machine learning, and academic research.
 
 </div>
 
@@ -18,20 +18,6 @@ I am passionate about data science, machine learning, and academic research.
 - 🧠 Deepening my knowledge in **Machine Learning** (Regression, Neural Networks) and Python.
 - 🌍 Aiming for **Erasmus Mundus** and international master's programs to further my academic career.
 - 💻 Previously experienced in **Web Development (React)** and **Game Development (Unity)**.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OykuCngz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OykuCngz&theme=radical)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -54,6 +40,8 @@ I am passionate about data science, machine learning, and academic research.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
@@ -67,5 +55,8 @@ I am passionate about data science, machine learning, and academic research.
   </a>
   <a href="mailto:oyku.cngz55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OykuCngz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
