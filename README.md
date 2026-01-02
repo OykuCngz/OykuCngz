@@ -25,18 +25,11 @@ I am passionate about data science, machine learning, and academic research.
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=radical" height="180" alt="stats graph" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OykuCngz&layout=compact&theme=radical" height="180" alt="languages graph" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OykuCngz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OykuCngz&theme=radical" alt="streak graph" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OykuCngz&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
