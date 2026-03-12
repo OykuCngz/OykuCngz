@@ -6,8 +6,8 @@
 I am a senior Software Engineering student passionate about building intelligent systems. Currently focused on **Machine Learning**, **Computer Vision**, and **Full-stack Web Development**.
 
 📍 **Based in:** Turkey (Open to Internship Opportunities in **Poland** 🇵🇱)
-📧 **Contact:** [E-posta Adresini Buraya Yaz]
-🔗 **LinkedIn:** [LinkedIn Profil Linkini Buraya Yaz]
+📧 **Contact:** [oyku.cngz55@gmail.com]
+🔗 **LinkedIn:** [www.linkedin.com/in/öykü-cengiz]
 
 ---
 
@@ -28,7 +28,7 @@ I am a senior Software Engineering student passionate about building intelligent
 
 ### 🌟 Featured Projects
 
-#### 🌬️ [Air Quality Analysis & Prediction](https://github.com/OykuCngz/air-quality-analysis)
+#### 🌬️ [Air Quality Analysis & Prediction](https://github.com/OykuCngz/Air-Quality-Analysis-TUBITAK)
 **TÜBİTAK-supported Research Project**
 *   **Overview:** Developed a low-cost IoT sensor network for real-time air quality monitoring using Machine Learning.
 *   **Key Achievement:** Created high-accuracy prediction models, bridging the gap between hardware and AI.
