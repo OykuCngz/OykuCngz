@@ -6,8 +6,8 @@
 I am a senior Software Engineering student passionate about building intelligent systems. Currently focused on **Machine Learning**, **Computer Vision**, and **Full-stack Web Development**.
 
 Based in:** Turkey (Open to Internship Opportunities in **Poland** 🇵🇱)
-Contact:** [oyku.cngz55@gmail.com]
-LinkedIn:** [www.linkedin.com/in/öykü-cengiz]
+Contact: oyku.cngz55@gmail.com
+LinkedIn: www.linkedin.com/in/öykü-cengiz
 
 ---
 
