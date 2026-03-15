@@ -1,13 +1,13 @@
-# 🚀 Hi there, I'm Öykü Cengiz!
+# Hi there, I'm Öykü Cengiz!
 
 ![Header Banner](github_header_banner.png)
 
-### 🎓 Software Engineering Student & Aspiring Tech Innovator
+###  Software Engineering Student & Aspiring Tech Innovator
 I am a senior Software Engineering student passionate about building intelligent systems. Currently focused on **Machine Learning**, **Computer Vision**, and **Full-stack Web Development**.
 
-📍 **Based in:** Turkey (Open to Internship Opportunities in **Poland** 🇵🇱)
-📧 **Contact:** [oyku.cngz55@gmail.com]
-🔗 **LinkedIn:** [www.linkedin.com/in/öykü-cengiz]
+Based in:** Turkey (Open to Internship Opportunities in **Poland** 🇵🇱)
+Contact:** [oyku.cngz55@gmail.com]
+LinkedIn:** [www.linkedin.com/in/öykü-cengiz]
 
 ---
 
@@ -26,26 +26,26 @@ I am a senior Software Engineering student passionate about building intelligent
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
-#### 🌬️ [Air Quality Analysis & Prediction](https://github.com/OykuCngz/Air-Quality-Analysis-TUBITAK)
+####  [Air Quality Analysis & Prediction](https://github.com/OykuCngz/Air-Quality-Analysis-TUBITAK)
 **TÜBİTAK-supported Research Project**
 *   **Overview:** Developed a low-cost IoT sensor network for real-time air quality monitoring using Machine Learning.
 *   **Key Achievement:** Created high-accuracy prediction models, bridging the gap between hardware and AI.
 
-#### 🏥 [Gallbladder Polyp Detection](https://github.com/OykuCngz/Gallbladder-Polyp-Detection)
+####  [Gallbladder Polyp Detection](https://github.com/OykuCngz/Gallbladder-Polyp-Detection)
 **AI in Healthcare**
 *   **Overview:** Deep Learning implementation for automated detection of polyps in medical scans.
 *   **Key Achievement:** Optimized neural networks for high-precision medical diagnosis support.
 
-#### 🌦️ [Modern Weather Dashboard](https://github.com/OykuCngz/weather-dashboard)
+####  [Modern Weather Dashboard](https://github.com/OykuCngz/weather-dashboard)
 **Full-stack Web Application**
 *   **Overview:** Sleek, minimalist dashboard for real-time weather and pollution insights.
 *   **Tech:** FastAPI, React, Tailwind CSS, OpenWeather API.
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -54,5 +54,5 @@ I am a senior Software Engineering student passionate about building intelligent
 
 ---
 
-### ⚡ Professional Goal
+###  Professional Goal
 I am currently seeking internship opportunities in **Poland** for Summer 2026. I am eager to apply my skills in AI and Full-stack development to solve real-world problems in a global environment. Interested in **Erasmus Mundus** and international master's programs.
